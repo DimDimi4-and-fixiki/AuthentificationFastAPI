@@ -1,2 +1,6 @@
 .idea
 app/.env
+app/__pycache__/
+db.sqlite3
+db.sqlite3-wal
+db.sqlite3-shm
